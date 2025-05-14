@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+img {
+    height: 140px;
+    margin: 10px;
+}
+
+.solid{
+ border:10px solid royalblue ;  
+}
+
+.dashed {
+border:10px dashed royalblue ;   
+}
+
+.dotted {
+ border:10px dotted royalblue ;  
+}
